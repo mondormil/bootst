@@ -1,0 +1,22 @@
+header {
+	background: #2c3e50;
+	color: #fff;
+}
+
+.aside {
+	background: orange;
+	color: #fff;	
+}
+
+.color1 {
+	background: green;
+}
+
+.color2 {
+	background: red;
+}
+
+footer {
+	background: green;
+	color: #fff;
+}
